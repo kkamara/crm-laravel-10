@@ -8,7 +8,7 @@
 
 # crm-laravel-10[![API](https://github.com/kkamara/users-api-laravel-10-php-app-5/actions/workflows/build.yml/badge.svg)](https://github.com/kkamara/users-api-laravel-10-php-app-5/actions/workflows/build.yml)
 
-(16-Aug-2023) This app is a remake of the [Laravel 5 CRM](https://github.com/kkamara/crm) (2016), which itself a remake of my [basic CRM](https://github.com/kkamara/oldcrm). Built with Laravel 10.
+(16-Aug-2023) This app is a remake of my [Laravel 5 CRM](https://github.com/kkamara/crm) (2016), which itself is a remake of my [basic CRM](https://github.com/kkamara/oldcrm). Built with Laravel 10.
 
 * [Tinker](#tinker)
 
